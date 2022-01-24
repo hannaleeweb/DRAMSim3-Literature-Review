@@ -11,3 +11,5 @@
 [5] Li, S., & Jacob, B. (2019, September). Statistical DRAM modeling. In Proceedings of the International Symposium on Memory Systems (pp. 521-530).
 
 [6] Li, S. (2019). Scalable and Accurate Memory System Simulation (Doctoral dissertation).
+
+[7] Y. Kim et al., "Flipping bits in memory without accessing them: An experimental study of DRAM disturbance errors," 2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA), 2014, pp. 361-372, doi: 10.1109/ISCA.2014.6853210.
