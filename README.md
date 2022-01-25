@@ -17,3 +17,5 @@
 [8] H. Kwon, K. Kim, D. Jeon and K. -S. Chung, "Reducing Refresh Overhead with In-DRAM Error Correction Codes," 2021 18th International SoC Design Conference (ISOCC), 2021, pp. 211-214, doi: 10.1109/ISOCC53507.2021.9613990.
 
 [9] A. Spessot and H. Oh, "1T-1C Dynamic Random Access Memory Status, Challenges, and Prospects," in IEEE Transactions on Electron Devices, vol. 67, no. 4, pp. 1382-1393, April 2020, doi: 10.1109/TED.2020.2963911.
+
+[10] O. Mutlu and J. S. Kim, "RowHammer: A Retrospective," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 39, no. 8, pp. 1555-1571, Aug. 2020, doi: 10.1109/TCAD.2019.2915318.
