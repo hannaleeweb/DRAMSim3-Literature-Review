@@ -13,3 +13,5 @@
 [6] Li, S. (2019). Scalable and Accurate Memory System Simulation (Doctoral dissertation).
 
 [7] Y. Kim et al., "Flipping bits in memory without accessing them: An experimental study of DRAM disturbance errors," 2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA), 2014, pp. 361-372, doi: 10.1109/ISCA.2014.6853210.
+
+[8] H. Kwon, K. Kim, D. Jeon and K. -S. Chung, "Reducing Refresh Overhead with In-DRAM Error Correction Codes," 2021 18th International SoC Design Conference (ISOCC), 2021, pp. 211-214, doi: 10.1109/ISOCC53507.2021.9613990.
