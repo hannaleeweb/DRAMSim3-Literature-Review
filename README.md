@@ -23,3 +23,8 @@
 [11] A. G. Yağlikçi et al., "BlockHammer: Preventing RowHammer at Low Cost by Blacklisting Rapidly-Accessed DRAM Rows," 2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2021, pp. 345-358, doi: 10.1109/HPCA51647.2021.00037.
 
 [12] J. -W. Han et al., "Surround Gate Transistor With Epitaxially Grown Si Pillar and Simulation Study on Soft Error and Rowhammer Tolerance for DRAM," in IEEE Transactions on Electron Devices, vol. 68, no. 2, pp. 529-534, Feb. 2021, doi: 10.1109/TED.2020.3045966.
+
+[13] A. J. Walker, S. Lee and D. Beery, "On DRAM Rowhammer and the Physics of Insecurity," in IEEE Transactions on Electron Devices, vol. 68, no. 4, pp. 1400-1410, April 2021, doi: 10.1109/TED.2021.3060362.
+
+[14] M. Kim, J. Choi, H. Kim and H. -J. Lee, "An Effective DRAM Address Remapping for Mitigating Rowhammer Errors," in IEEE Transactions on Computers, vol. 68, no. 10, pp. 1428-1441, 1 Oct. 2019, doi: 10.1109/TC.2019.2907248.
+
