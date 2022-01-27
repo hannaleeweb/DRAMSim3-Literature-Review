@@ -21,3 +21,5 @@
 [10] O. Mutlu and J. S. Kim, "RowHammer: A Retrospective," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 39, no. 8, pp. 1555-1571, Aug. 2020, doi: 10.1109/TCAD.2019.2915318.
 
 [11] A. G. Yağlikçi et al., "BlockHammer: Preventing RowHammer at Low Cost by Blacklisting Rapidly-Accessed DRAM Rows," 2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2021, pp. 345-358, doi: 10.1109/HPCA51647.2021.00037.
+
+[12] J. -W. Han et al., "Surround Gate Transistor With Epitaxially Grown Si Pillar and Simulation Study on Soft Error and Rowhammer Tolerance for DRAM," in IEEE Transactions on Electron Devices, vol. 68, no. 2, pp. 529-534, Feb. 2021, doi: 10.1109/TED.2020.3045966.
